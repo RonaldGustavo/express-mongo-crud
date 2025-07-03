@@ -49,7 +49,6 @@ Thumbs.db
 *.wmv
 
 
-*.json
 *.env
 .env
 credentials/
